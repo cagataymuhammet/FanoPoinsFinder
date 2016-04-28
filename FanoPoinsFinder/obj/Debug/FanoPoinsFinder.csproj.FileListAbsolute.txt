@@ -1,0 +1,14 @@
+C:\Users\HP\Downloads\FanoOlusturanNoktaBulucu_28_12_2015\FanoOlusturanNoktaBulucu\bin\Debug\FanoPoinsFinder.exe
+C:\Users\HP\Downloads\FanoOlusturanNoktaBulucu_28_12_2015\FanoOlusturanNoktaBulucu\bin\Debug\FanoPoinsFinder.pdb
+C:\Users\HP\Downloads\FanoOlusturanNoktaBulucu_28_12_2015\FanoOlusturanNoktaBulucu\obj\Debug\FanoPoinsFinder.exe
+C:\Users\HP\Downloads\FanoOlusturanNoktaBulucu_28_12_2015\FanoOlusturanNoktaBulucu\obj\Debug\FanoPoinsFinder.pdb
+C:\Users\HP\Downloads\FanoPoinsFinder\FanoPoinsFinder\obj\Debug\FanoPoinsFinder.exe
+C:\Users\HP\Downloads\FanoPoinsFinder\FanoPoinsFinder\obj\Debug\FanoPoinsFinder.pdb
+C:\Users\HP\Downloads\FanoPoinsFinder\FanoPoinsFinder\bin\Debug\FanoPoinsFinder.exe
+C:\Users\HP\Downloads\FanoPoinsFinder\FanoPoinsFinder\bin\Debug\FanoPoinsFinder.pdb
+C:\Users\HP\Downloads\FanoPoinsFinder\FanoPoinsFinder\obj\Debug\FanoPoinsFinder.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\FANO YAZILIMLARI\FanoPoinsFinder\FanoPoinsFinder\FanoPoinsFinder\obj\Debug\FanoPoinsFinder.exe
+C:\Users\User\Desktop\FANO YAZILIMLARI\FanoPoinsFinder\FanoPoinsFinder\FanoPoinsFinder\obj\Debug\FanoPoinsFinder.pdb
+C:\Users\User\Desktop\FANO YAZILIMLARI\FanoPoinsFinder\FanoPoinsFinder\FanoPoinsFinder\bin\Debug\FanoPoinsFinder.exe
+C:\Users\User\Desktop\FANO YAZILIMLARI\FanoPoinsFinder\FanoPoinsFinder\FanoPoinsFinder\bin\Debug\FanoPoinsFinder.pdb
+C:\Users\User\Desktop\FANO YAZILIMLARI\FanoPoinsFinder\FanoPoinsFinder\FanoPoinsFinder\obj\Debug\FanoPoinsFinder.csprojResolveAssemblyReference.cache
